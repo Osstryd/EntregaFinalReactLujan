@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EntregaFinalReactLujan/static/css/main.541bf5ff.css",
+    "main.js": "/EntregaFinalReactLujan/static/js/main.79cd3567.js",
+    "index.html": "/EntregaFinalReactLujan/index.html",
+    "main.541bf5ff.css.map": "/EntregaFinalReactLujan/static/css/main.541bf5ff.css.map",
+    "main.79cd3567.js.map": "/EntregaFinalReactLujan/static/js/main.79cd3567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.541bf5ff.css",
+    "static/js/main.79cd3567.js"
+  ]
+}
